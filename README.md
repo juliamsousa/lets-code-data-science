@@ -1,2 +1,32 @@
-# lets-code-data-science
-Repositório contendo códigos desenvolvidos ao longo do curso de Data Science da Let's Code em parceria com o Santander.
+# 👩🏻‍🎓 Bootcamp Santander Coders 2022 - Data Science Track
+
+![becas_santander_tecnología_ _santander_bootcamp_2022](./becas_santander_tecnolog%C3%ADa_%20_santander_coders_2022.png)
+
+<font size ='4'>**Repositório contendo os desafios e códigos desenvolvidos durante o Bootcamp Santander Coders 2022 - Data Science Track da [Let's Code](https://letscode.com.br/processos-seletivos/santander-coders). Conteúdo do Bootcamp:**</font>
+
+# Primeiro Fase - Python Basics 🐍 
+
+## 💻 1 - Basics
+- Por que Python?
+- Instalações
+- Tipos de Variáveis
+- Operadores
+- Estruturas Sequenciais
+- Estruturas Condicionais
+- Estruturas de Repetição - While
+
+## 👩🏻‍💻 2 - Estruturas Avançadas
+- Listas e Tuplas
+- Strings I
+- Strings II
+- Dicionários
+- Estruturas de Repetição - For
+- Funções I
+- Funções II
+
+## 👾 3 - Aplicações
+- Manipulação de Arquivos
+- Arquivos CSV
+- APIs
+- Projeto | Parte 1
+- Projeto | Parte 2
