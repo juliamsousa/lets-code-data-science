@@ -1,4 +1,4 @@
-# 👩🏻‍🎓 Bootcamp Santander Coders 2022 - Data Science Track
+# 👩🏻‍🎓 Bootcamp Santander Coders 2022 - Data Science
 
 ![becas_santander_tecnología_ _santander_bootcamp_2022](./becas_santander_tecnolog%C3%ADa_%20_santander_coders_2022.png)
 
@@ -6,7 +6,7 @@
 
 # Primeiro Fase - Python Basics 🐍 
 
-## 💻 1 - Basics
+## 💻 Basics
 - Por que Python?
 - Instalações
 - Tipos de Variáveis
@@ -15,7 +15,7 @@
 - Estruturas Condicionais
 - Estruturas de Repetição - While
 
-## 👩🏻‍💻 2 - Estruturas Avançadas
+## 👩🏻‍💻 Estruturas Avançadas
 - Listas e Tuplas
 - Strings I
 - Strings II
@@ -24,7 +24,7 @@
 - Funções I
 - Funções II
 
-## 👾 3 - Aplicações
+## 👾 Aplicações
 - Manipulação de Arquivos
 - Arquivos CSV
 - APIs
